@@ -1,7 +1,7 @@
 # monotony
 CLI Game
 
-<img src="https://github.com/OdinSCRT/monotony/blob/main/monotony.png"
+<img src="https://github.com/OdinSCRT/monotony/blob/main/monotony.png"/>
 Monotony é um jogo de plataforma Linux, execultado diretamente no terminal, 
 
 
