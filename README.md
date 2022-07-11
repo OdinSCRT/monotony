@@ -1,18 +1,32 @@
-# monotony
-CLI Game
-
 <img src="https://github.com/OdinSCRT/monotony/blob/main/monotony.png"/>
-Monotony é um jogo de plataforma Linux, execultado diretamente no terminal, 
 
+<p>Monotony é um jogo de plataforma Linux, execultado diretamente no terminal</p>
 
-# Como instalar 
+<h3>Menu de navegação</h3>
+<ol>
+  <li><a href="#install">Como Instalar</a></li>
+  <li><a href="#exec">Como execultar</a></li>
+</ol>
+ 
+<h1 id="install">Como instalar</h1>
 
-É necessario ter o interpretador python3 instalado
+<p>É necessario ter o interpretador python3 instalado</p>
 
-code apt update
-code apt install python3
-git clone https://github.com/OdinSCRT/monotony.git
+```
+# apt update
+```
+```
+# apt install python3
+```
+```
+$ git clone https://github.com/OdinSCRT/monotony.git
+```
+<h1 id="exec">Como execultar</h1>
 
-# Como execultar
-cd monotony
-python3 main.py ou ./main.py
+```
+$ cd monotony
+```
+
+```
+$ python3 main.py
+```
