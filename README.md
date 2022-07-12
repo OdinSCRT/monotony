@@ -10,22 +10,34 @@
  
 <h1 id="install">Como instalar</h1>
 
-<p>É necessario ter o interpretador python3 instalado</p>
+<h6>É necessario ter o interpretador python3 instalado</h6>
+<p>Atualizando Repositorios</p>
 
 ```
 # apt update
 ```
+
+<p>Instalando o interpretador python3</p>
+
 ```
 # apt install python3
 ```
+
+<p>Clonando repositorio do monotony</p>
+
 ```
 $ git clone https://github.com/OdinSCRT/monotony.git
 ```
+
 <h1 id="exec">Como execultar</h1>
+
+<p>Carregando diretorio do monotony</p>
 
 ```
 $ cd monotony
 ```
+
+<p>Rodando o monotony</p>
 
 ```
 $ python3 main.py
